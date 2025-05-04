@@ -23,3 +23,5 @@ for i in range (101):
 print (Zbior)
 dop = [Zbior**3 for Zbior in Zbior]
 print (dop)
+
+print ("'martwa papuga' - najlepszyt skecz")
